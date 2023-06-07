@@ -1,0 +1,5 @@
+npm run dev // iniciar el servidor
+
+
+en la consola del navegador:
+Math.random().toString(36).substr(2)
