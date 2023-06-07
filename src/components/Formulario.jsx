@@ -88,7 +88,7 @@ function Formulario({pacientes, setPacientes, paciente, setPaciente}) {
         <h2 className="font-black text-3xl text-center">Seguimiento Pacientes</h2>
 
         <p className='text-lg mt-5 text-center mb-5'>
-        Anade Pacientes y {' '}
+        Añade Pacientes y {' '}
         <span className="text-indigo-500 font-bold ">Administralos</span>
         </p>
 

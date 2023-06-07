@@ -3,3 +3,8 @@ npm run dev // iniciar el servidor
 
 en la consola del navegador:
 Math.random().toString(36).substr(2)
+
+
+para realizar cambios en git, abrimos una nueva terminal
+git checkout -b //permite crear una nueva rama
+git add . //para Agregar todos los archivos que tuvieron cambios
